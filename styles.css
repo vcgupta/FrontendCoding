@@ -1,0 +1,16 @@
+
+.headerDays th, .datesTable td{
+    width:25px;
+}
+.headerInfo span{
+    font-size: 20px;
+}
+.calender{
+    width: 250px;
+}
+.datesTable tr td:first-child{
+    color:red;
+}
+.headerInfo, .datesTable{
+    margin-bottom: 20px;
+}
