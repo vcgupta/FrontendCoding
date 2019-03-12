@@ -1,4 +1,4 @@
-//Started: 6PM
+//Started: 6PM, Ended: 6:45PM
 var loadCalender = function (domElement) {
 
     const MAX_YEAR = 2030, MIN_YEAR = 1900;
